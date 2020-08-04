@@ -1,0 +1,32 @@
+### drafting stages
+- talk about old unix commands still included that are cool
+examples
+- `talk [username]`, `write[username]` and `read[username]`
+    - real time chat programs... built in!
+    - `mesg` permit or disallow messages
+-`quota -v`
+- `cal`
+    - prints a little calendar!
+    - `date` as well
+- `basename`
+    - get the basename of a file
+- `bc`
+    - basic calculator (like how i use python for simple match)
+- `comm`
+    - show similarities between two files
+- `false`
+    - return a false value!
+- `id`
+    - no idea?
+- `mailx`
+    - process messages
+- `nl`
+    - line numbering on input
+- `pr`
+    - convert text into a printable file with a header
+- `tee`
+    - duplicate standard output
+- `tr`
+    - translate characters
+- `tsort`
+    - topological sort
