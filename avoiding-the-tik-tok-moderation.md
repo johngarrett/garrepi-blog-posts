@@ -37,20 +37,20 @@ Whether this is true or not, creators have begun to use aliases for these words 
 
 Here are some (explicit) examples:
 
-![leaf emoji instead of weed](/blog-posts/images/blogs/avoiding-tik-tok-moderation/0.jpg)
+![leaf emoji instead of weed](/blog-posts/images/avoiding-tik-tok-moderation/0.jpg)
 
-![using @ signs for a](/blog-posts/images/blogs/avoiding-tik-tok-moderation/1.jpg)
+![using @ signs for a](/blog-posts/images/avoiding-tik-tok-moderation/1.jpg)
 
-![even words like homophobic are 'encoded'](/blog-posts/images/blogs/avoiding-tik-tok-moderation/2.jpg)
+![even words like homophobic are 'encoded'](/blog-posts/images/avoiding-tik-tok-moderation/2.jpg)
 
-![swapping i with an i-hat](/blog-posts/images/blogs/avoiding-tik-tok-moderation/3.jpg)
+![swapping i with an i-hat](/blog-posts/images/avoiding-tik-tok-moderation/3.jpg)
 
-![u with dots over it, oui'd instead of weed](/blog-posts/images/blogs/avoiding-tik-tok-moderation/4.jpg)
+![u with dots over it, oui'd instead of weed](/blog-posts/images/avoiding-tik-tok-moderation/4.jpg)
 > notably, oui'd is a common tiktok alias for weed
 
-![basically using a different language to hide explitaves](/blog-posts/images/blogs/avoiding-tik-tok-moderation/5.jpg)
+![basically using a different language to hide explitaves](/blog-posts/images/avoiding-tik-tok-moderation/5.jpg)
 
-![d3@d p*ff b*rs](/blog-posts/images/blogs/avoiding-tik-tok-moderation/6.jpg)
+![d3@d p*ff b*rs](/blog-posts/images/avoiding-tik-tok-moderation/6.jpg)
 
 This isn't a new phenomenon, twitter user's often use astricks to hide their tweet from search results. That makes sense; they're hiding from other users searching specific key words.
 
