@@ -26,8 +26,7 @@ You _can_ fill out the company section on someone's contact information but that
 
 How do you save the number of the store you work at? They don't have a first name and last name. Furthermore, you want to add a sense of urgency. Putting in your store's number as ALL CAPITOL LETTERS alarms you. If you're getting a call from your store, you should be alarmed. You either slept through your shift, got fired, or need to come in ASAP.
 
->Honorable mentions from my contacts book: WELLS FARGO, UBER, DOORDASH
-
+> Honorable mentions from my contacts book: WELLS FARGO, UBER, DOORDASH
 
 - tucker european, tucker iphone, tucker, tucker 12/10/16, tucker 12/22/16, ...  
 
@@ -43,9 +42,11 @@ Harking back to the permanence of contacts, the contacts in my phone is a rollin
 
 - add your contact in via the phone app  
 
->p1: Hey can I get your number?  
->p2: Yeah sure  
->p1: [Opens the Phone app] Here, put it in  
+> p1: Hey can I get your number?  
+
+> p2: Yeah sure  
+
+> p1: [Opens the Phone app] Here, put it in  
 
 Look at the difference in adding a contact in through the Phone app versus the Contacts app. Giving someone your number by adding a contact into someone else's phone adds unnecessary complexity. "Do they know my last name?", "Should I put an emoji next to my name?", "Do I add a photo?"... Because of this, a lot of people just open the phone app and make you put in their number. After typing in your number, you hand the phone back and _they_ fill out the contact card.
 
