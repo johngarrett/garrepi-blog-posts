@@ -41,7 +41,7 @@ Here's where I find it useful:
 
 ### "Development" 
 
-![development](/blog-posts/images/ipad-computing/development.png)
+![development](/blog-posts/images/ipad-computing/development.PNG)
 
 I've managed to do a surprising amount of coding on my iPad. The image above is all native! I've installed the basics: `Python`, `pip`, `git`, `tmux`, `vim`, `&c`.
 
