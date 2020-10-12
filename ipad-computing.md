@@ -22,7 +22,7 @@ In a podcast, [Paul Miller](http://twitter.com/futurepaul) once said something a
 
 I would amend his amendment by saying an iPad is a penny board and not so much a skateboard. You can only do a few tricks, and you look kind of dorky using it, but it's an amazing cruiser.
 
-my iPad Pro (2nd Gen 10.5") only gets upgraded when a jailbreak is available; a jailed iPad is too constrained.
+My current iPad Pro (2nd Gen 10.5") only gets upgraded when a jailbreak is available; a jailed iPad doesn't provide the same illusion of freedom.
 
 
 ## in the wild 
@@ -30,20 +30,22 @@ my iPad Pro (2nd Gen 10.5") only gets upgraded when a jailbreak is available; a 
 ### Windowing
 
 ![windowing](/blog-posts/images/ipad-computing/windows.PNG)
-I use a tweak called MilkyWay that lets you window applications. Imagine windowing in it's worst state, that's what this is.
+I use a tweak called [MilkyWay](https://mainrepo.org/bundle/milkyway2) that lets you window applications. Imagine windowing in it's worst state, that's what this is.
 
 Here's where I find it useful:
 
 - watching live lectures and taking notes at the same time 
 - floating zoom on top while I navigate around elsewhere
 - always accessible Spotify
-    - think iTunes Mini Player
+    - think: iTunes Mini Player
 
 ### "Development" 
 
 ![development](/blog-posts/images/ipad-computing/development.PNG)
 
-I've managed to do a surprising amount of coding on my iPad. The image above is all native! I've installed the basics: `Python`, `pip`, `git`, `tmux`, `vim`, `&c`.
+I've managed to do a surprising amount of coding on my iPad. The image above is all native! I've installed some of the basics: `python3`, `pip`, `npm`, `git`, `tmux`, `vim`, `&c`.
+
+Sadly, I haven't managed to get `cargo` or `swift` working. I hope rustc's port to the ARM Macs does something for me.
 
 Ranger, a favorite CLI tool of mine, compiles and installs pretty well. All of my vim, zsh, and tmux configurations (including plugins surprisingly) work here too. 
 
@@ -57,6 +59,7 @@ a few more things the iPad is great at:
 
 - photo editing
     - 100x faster than my base line 2015 13" MBP
+
 - drawing
 - reading academic papers, textbooks, and articles
 
