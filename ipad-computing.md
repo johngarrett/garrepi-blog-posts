@@ -7,18 +7,23 @@ tags: technology, human-computer-interaction, iOS
 
 ## Preface
 
-Since the iPad 2 came out, I've always wanted an iPad. I don't know why, it scratched some part of my brain. It wasn't until 2018, the end of my freshman fall semester, that I managed to buy one -- a first generation iPad Pro.
+I've wanted an iPad since the iPad 2 came out. There aren't many tangible reasons why, it just scratched an itch somewhere in my brain. It wasn't until 2018, the end of my freshman fall semester (5 years later), that I managed to buy one -- a first generation iPad Pro.
 
-It was disappointing, full stop. I wanted, and still want, more out of this machine. Here's how I, as a student, have contorted my iPad to fit my world.
+It was disappointing, full stop. I wanted more out of this machine. Here's how I, as a student, have contorted my iPad to fit my world.
 
-Side Note: I've taken a year off university, so the examples below aren't reflective of new features, apps, online learning, etc.
+_Side Note: I've taken a year off university, so the examples below aren't reflective of new features, apps, online learning, etc._
 
 
 ## iPadOS 13.4
 
-In a podcast, [Paul Miller](http://twitter.com/futurepaul) once said something along the lines of "if a computer is a bicycle, then an iPad is a skateboard". I would argue that an iPad is more of a penny board and not so much a skateboard. You can't do all the tricks of a skateboard, and you look kind of dorky using it, but it's an amazing cruiser.
+In a podcast, [Paul Miller](http://twitter.com/futurepaul) once said something along the lines of:
 
-my iPad Pro (2nd Gen 10.5") only gets upgraded when a jailbreak is avaliable; a jailed iPad is too constrained.
+> "if a computer is a bicycle, then an iPad is a skateboard"
+
+I would amend his amendment by saying an iPad is a penny board and not so much a skateboard. You can only do a few tricks, and you look kind of dorky using it, but it's an amazing cruiser.
+
+my iPad Pro (2nd Gen 10.5") only gets upgraded when a jailbreak is available; a jailed iPad is too constrained.
+
 
 ## in the wild 
 
@@ -46,7 +51,7 @@ Ranger, a favorite CLI tool of mine, compiles and installs pretty well. All of m
 
 There is also an app [UTM](https://github.com/utmapp/UTM) that lets you virtualize operating systems on iOS. I mainly use this to run console only Arch Linux for when I need to use certain tools and binaries I don't have natively.
 
-### Other
+### Misc 
 
 a few more things the iPad is great at:
 
@@ -55,11 +60,13 @@ a few more things the iPad is great at:
 - drawing
 - reading academic papers, textbooks, and articles
 
+There are a bunch more tweaks and apps I use but I'm cutting it short.
+
 ## Form Factor
 
 ![magnets](/blog-posts/images/ipad-computing/magnets.jpg)
 
-Everytime I pick up my iPad, I fall in love all over again. It's the computer I _want_ to love. 
+Each time I pick up my iPad, I'm seeing it for the first time again. It's the computer I _want_ to love. 
 
 A few things on that:
 
@@ -69,7 +76,7 @@ The magnets allow me to stick it to a slew of surfaces -- chalkboards, stovetops
 
 2. Screen Protector
 
-During school, I'm writing, sketching, and annotating all day. Nothing is more indicative of this than the 3 Pencil tips I've erroded through. With a 20-something dollar "paper" screen protector, stylus input feel s great -- I never got the appeal of writing on a glass screen.
+During school, I'm writing, sketching, and annotating all day. Nothing is more indicative of this than the 3 Pencil tips I've eroded through. With a 20-something dollar "paper" screen protector, stylus input feel s great -- I never got the appeal of writing on a glass screen.
 
 3. Text Input
 
@@ -79,16 +86,16 @@ I tried the keyboard + trackpad case from Logetic and hated it. The external key
 
 ![keyboard](/blog-posts/images/ipad-computing/keyboard.jpeg)
 
+
 ## Summary
 
-I summed it all up earlier -- The iPad is the computer I _want_ to love.
+I summed it all up earlier -- the iPad is the computer I _want_ to love.
 
-I want it's form factor, it's speed, it's beautiful screen, it's battery life, to fit my needs. 
+I want its form factor, its speed, its battery life, to fit my needs. 
 
 It doesn't.
 
-Am I trying to justify the roughly 300 dollars I spent on this iPad? Maybe. Do I love using it every day? Definitely. 
+All that being said, a day in which I use my iPad is a good day.
 
-
-### Footnotes
+#### Footnotes
 †: you can use any ssh client off the App Store and connect to localhost. This would solve a lot of the problems (`Terminus` is way better than anything on cydia) but I haven't spent the time to do so yet
