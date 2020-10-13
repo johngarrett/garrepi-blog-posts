@@ -58,11 +58,11 @@ iCloud login, with that one-time passcode, works here for some reason. Sweet, iM
 
 Now that we're on the SpringBoard and setup is done, what can we do? Well without iCloud I don't have any contacts so that sucks.
 
-Even if iCloud worked, my Notes aren't compatible with devices <iOS 9. 
+Even if iCloud worked, my Notes aren't compatible with devices below iOS 9. 
 
 The weather and stock apps don't work either, I'm assuming their REST APIs have changed.
 
-![applemaps](/blog-posts/images/iphone3gs-in-2020/apple-maps.png)
+![maps](/blog-posts/images/iphone3gs-in-2020/apple-maps.png)
 
 > Apple Maps works as well as it ever has, down to the turn by turn navigation.
 
@@ -71,17 +71,21 @@ All the other preloaded apps work. Mail, Camera, Reminders, etc.
 
 ## Jailbreaking
 
-App Store login doesn't work either. Even if it did, iOS 6 doesn't let you download older versions of apps that are compatible with your phone (I believe iOS 7+ does). Fine, I'll jailbreak it.
-
 _I'm including all this because I believe it's a crucial step to using these older iPhones in the modern day._
 
+App Store login doesn't work either. Even if it did, iOS 6 doesn't let you download older versions of apps that are compatible with your phone (I believe iOS 7+ does). Fine, I'll jailbreak it.
+
+
 There are a couple of options: 
+
 - [p0sixpwn](https://ih8sn0w.com/p0sixspwn.html)
+
 - [H3lix](https://www.theiphonewiki.com/wiki/H3lix)
+
 - [evasi0n](https://www.theiphonewiki.com/wiki/Evasi0n)
 
-None of these work on MacOS 11, of course, because of lack of 32 bit support.
 
+None of these work on MacOS 11, of course, because of lack of 32 bit support.
 
 ### `p0sixpwn` and `evasi0n` on a 2009 MacBook Pro
 
@@ -93,7 +97,7 @@ Next I tried Windows 10 on my friends desktop -- didn't work. `p0sixpwn` couldn'
 
 I installed iTunes `10.5.5` to no avail. No matter what I did, the iPhone wasn't showing up.
 
-After not using windows for \~5 years, digging through Device Manager and the Windows Services Manager were not gentle reintroductions. I threw in the towel 
+After not using windows for \~5 years, digging through Device Manager and the Windows Services Manager were not gentle reintroductions. I threw in the towel.
 
 ### `p0sixpwn` fork on MacOS 11
 
@@ -181,15 +185,10 @@ It's fun using this phone. I like the way it feels in my hand and how it fits my
 
 The fundamental issues that prevent me from sticking on this device are:
 
+- no 3g: no data ~= no mobility 
 - the camera
-    - i enjoy photography in my spare time
-    
-- no 3g
-    - no data ~= no mobility 
-
+- the lack of apps
 - no contacts
-
-- no apps
 
 I really wanted to use this phone but with all these hurdles, I can't.
 
