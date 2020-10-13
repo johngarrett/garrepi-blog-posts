@@ -2,6 +2,7 @@
 title: Avoiding TikTok's auto moderation
 date: 09/11/2020
 abstract: Nobody outside of TikTok understands the intricacies of their algorithm. That doesn't stop user's from trying.
+image_url: https://awgsalesservices.com/wp-content/uploads/2019/10/TikTok-Logo-1180x655.png
 tags: technology, human-computer interaction
 ---
 

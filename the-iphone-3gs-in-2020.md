@@ -1,6 +1,7 @@
 ---
 title: The iPhone 3GS in 2020
 date: 10/13/2020
+image_url: /blog-posts/images/iphone3gs-in-2020/3gs-glamor-shot.jpg
 abstract: Is an iPhone 3GS a viable option for a daily driver anymore?
 tags: technology, vintage computing, ios
 ---

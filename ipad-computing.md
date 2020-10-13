@@ -1,6 +1,7 @@
 ---
 title: iPad Computing - A student's point of view
 date: 10/11/2020
+image_url: /blog-posts/images/ipad-computing/magnets.jpg
 abstract: the "can an iPad replace your computer" argument has been around forever. For me, in short, no.
 tags: technology, human-computer-interaction, iOS
 ---

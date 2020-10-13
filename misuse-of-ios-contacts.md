@@ -1,6 +1,7 @@
 ---
 title: The Misuse of the iOS Contacts
 date: 07/02/2020
+image_url: https://media.idownloadblog.com/wp-content/uploads/2016/09/iOS-Contacts-App-Icon.jpg
 abstract: There are very harmful misuses of technology. The militarization of AI, tracking protestors across social media, etc. _This_ post is apart of a series about the unique and 'cool' misuses of technology.
 tags: technology, human-computer interaction
 ---
