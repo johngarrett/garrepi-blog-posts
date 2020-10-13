@@ -5,7 +5,7 @@ abstract: Is an iPhone 3GS a viable option for a daily driver anymore?
 tags: technology, vintage computing, ios
 ---
 
-![glamor shot](/blog-posts/images/iphone3gs-in-2020/3gs-glamor-shot.jpg)
+![glamor-shot](/blog-posts/images/iphone3gs-in-2020/3gs-glamor-shot.jpg)
 
 ## Why
 
@@ -37,11 +37,12 @@ The 30 pin connector is a thorn my rose tinted glasses obscured. It's cumbersome
 
 With my iPhone X, I'm have a nano sim; the 3GS uses a standard SIM. To facilitate this, we have to jump back 3 generations, nano -> micro -> standard. Some electrical tape managed to do the trick.
 
-![sim card](/blog-posts/images/iphone3gs-in-2020/sim-card.jpg)
+![sim-card](/blog-posts/images/iphone3gs-in-2020/sim-card.jpg)
 
 ### Step 2 -- restoring
 
 Restoring from a brand new iOS 6.1.6 IPSW was dead simple on MacOS 11. Plug it in, hit restore, done. 
+
 ![finder](/blog-posts/images/iphone3gs-in-2020/finder.png)
 
 ### Step 3 -- Setup
@@ -67,7 +68,6 @@ The weather and stock apps don't work either, I'm assuming their REST APIs have 
 > Apple Maps works as well as it ever has, down to the turn by turn navigation.
 
 All the other preloaded apps work. Mail, Camera, Reminders, etc.
-
 
 ## Jailbreaking
 
@@ -113,10 +113,13 @@ It worked, sweet. This is an untethered jailbreak so hopefully I'll never have t
 
 The camera isn't really work discussing -- it sucks; I expected no less but here are some sample shots.
 
-![georgia tech](/blog-posts/images/iphone3gs-in-2020/ga-tech.JPG)
-![another georgia tech shot](/blog-posts/images/iphone3gs-in-2020/gatechx2.JPG)
-![room at noon](/blog-posts/images/iphone3gs-in-2020/room-nolight.JPG)
-![room window](/blog-posts/images/iphone3gs-in-2020/room-window.JPG)
+![georgia-tech](/blog-posts/images/iphone3gs-in-2020/ga-tech.JPG)
+
+![another-georgia-tech-shot](/blog-posts/images/iphone3gs-in-2020/gatechx2.JPG)
+
+![room-at-noon](/blog-posts/images/iphone3gs-in-2020/room-nolight.JPG)
+
+![room-window](/blog-posts/images/iphone3gs-in-2020/room-window.JPG)
 
 ## The Web
 
@@ -124,7 +127,7 @@ With all the javascript, jquery, and CSS 3 stuff on the modern web, most website
 
 This website, notably, does work.
 
-![garrepi blog](/blog-posts/images/iphone3gs-in-2020/blog-scrolled.jpg)
+![garrepi-blog](/blog-posts/images/iphone3gs-in-2020/blog-scrolled.jpg)
 
 ## Apps
 
@@ -158,7 +161,7 @@ What this is all about -- can I text and call? Kind of.
 
 I don't have any contacts so group chats are basically indistinguishable.
 
-![group chats](/blog-posts/images/iphone3gs-in-2020/messages.PNG)
+![group-chats](/blog-posts/images/iphone3gs-in-2020/messages.PNG)
 
 There aren't any fancy features like reactions or thread replies but that's not a big deal. On the basic level, I can send and receive photos, emojis, and messages surprisingly well.
 
@@ -170,14 +173,14 @@ The phone app works great. Making and answering calls is what this phone is best
 
 3G in Atlanta does not work anymore. Maybe it's an issue with the MVNO service plan I use, tracphone. So iMessage doesn't work when I leave the house... that's my 1 (one) requirement of a daily driver.
 
-![no 3g data](/blog-posts/images/iphone3gs-in-2020/no-data.PNG)
+![no-3g-data](/blog-posts/images/iphone3gs-in-2020/no-data.PNG)
 
 
 ### Text & call forwarding 
 
 I've gotten used to all SMS texts and calls forwarding to my laptop and iPad. When I'm at home, my phone is usually off somewhere but calls and texts still propagate to me via my iPad or Mac. I forgot this wasn't a thing pre iOS 9 and ended up missing 4 phone calls yesterday... oops.
 
-![missed calls](/blog-posts/images/iphone3gs-in-2020/notifications.PNG)
+![missed-calls](/blog-posts/images/iphone3gs-in-2020/notifications.PNG)
 
 ## Conclusion
 
