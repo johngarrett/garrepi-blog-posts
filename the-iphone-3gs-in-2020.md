@@ -11,7 +11,7 @@ tags: technology, vintage computing, ios
 
 Every so often, I find myself at the whims of my phone. That is, I spend hours a day aimlessly scrolling through social media while avoiding important calls, texts, and work. I've tried many solutions: turning off biometrics to slow down login, rigid screen time limits, having my roommate be the sole proprietor of my passcode, etc. At the end of the day, having a \$1,000 iPhone makes me want to use it as a \$1,000 iPhone...
 
-All of that's besides the point. The solution, for me, is to periodically downgrade to an older iPhone every few months. This both breaks a lot of my bad habits and helps me curb my desire for buying a new phone.
+All of that's beside the point. The solution, for me, is to periodically downgrade to an older iPhone every few months. This both breaks my bad habits and curbs my desire for buying a new phone.
 
 In the past, my go to phone was an iPhone 5. With the surplus of phones I have, I decided to go a little further back this time.
 
@@ -21,11 +21,13 @@ In the past, my go to phone was an iPhone 5. With the surplus of phones I have, 
 
 ## Form Factor
 
-I won't belabor this, we all remember what an iPhone 3GS looks like. It's round and plastic, the screen has a handful of pixels while being recessed under 20 layers of laminate, and there's only one rear camera (with no flash). The stark contrast between this and the iPhone 4 never fails to amaze me. I can't think of a parallel leap, in the span of a year, that compares.
+I won't belabor this, we all remember what an iPhone 3GS looks like. It's round and plastic, the screen has a handful of pixels while being recessed under 20 layers of laminate, and there's only one rear camera (with no flash).
 
-[iphone4-vs-3gs](/blog-posts/images/iphone3gs-in-2020/3gs-and-4.jpg)
+The stark contrast between this and the iPhone 4 never fails to amaze me. I can't think of a parallel leap, in the span of a year, that compares.
 
-This phone rocks on a surface, way worse than any iPhone 6 (or above) with a camera bump does. 
+![iphone4-vs-3gs](/blog-posts/images/iphone3gs-in-2020/3gs-and-4.jpg)
+
+This phone rocks on a surface, way more than any iPhone with a camera bump. 
 
 The 30 pin connector is a thorn my rose tinted glasses obscured. It's cumbersome, uni-directional, and feels like inserting RAM into a motherboard every time you plug it in.
 
@@ -33,7 +35,7 @@ The 30 pin connector is a thorn my rose tinted glasses obscured. It's cumbersome
 
 ### Step 1 -- SIM Card
 
-With my iPhone X, I'm using a nano sim; the 3GS uses a standard SIM. To facilitate this, we have to jump back 3 generations, nano -> micro -> standard. Some electrical tape managed to do the trick.
+With my iPhone X, I'm have a nano sim; the 3GS uses a standard SIM. To facilitate this, we have to jump back 3 generations, nano -> micro -> standard. Some electrical tape managed to do the trick.
 
 ![sim card](/blog-posts/images/iphone3gs-in-2020/sim-card.jpg)
 
@@ -46,7 +48,7 @@ Restoring from a brand new iOS 6.1.6 IPSW was dead simple on MacOS 11. Plug it i
 
 iOS 5 was the first iOS that was "Computer Free"; you didn't need a computer with iTunes to guide you through the setup process. I wish this weren't the case, however, because iCloud signin is effectively broken. 
 
-This OS predates the two-factor authentication mandate iCloud now enforces. Easy enough, I'll just have to generate a one-time, app specific, password. No dice. The setup asserts `incorrect Apple ID or password` no matter what you input. Creating a new iCloud on device doesn't work, resetting the password doesn't work, etc. Fine, no iCloud. 
+This OS predates the two-factor authentication mandate that iCloud now enforces. Easy enough, I'll just have to generate a one-time, app specific, password. No dice. The setup asserts `incorrect Apple ID or password` no matter what you input. Creating a new iCloud on device doesn't work, resetting the password doesn't work, etc. Fine, no iCloud. 
 
 ### Step 4 -- iMessage
 
@@ -56,14 +58,16 @@ iCloud login, with that one-time passcode, works here for some reason. Sweet, iM
 
 Now that we're on the SpringBoard and setup is done, what can we do? Well without iCloud I don't have any contacts so that sucks.
 
-Even if iCloud worked, all my Notes aren't compatible with devices <iOS 9. 
+Even if iCloud worked, my Notes aren't compatible with devices <iOS 9. 
 
 The weather and stock apps don't work either, I'm assuming their REST APIs have changed.
 
-![applemap](/blog-posts/images/iphone3gs-in-2020/apple-maps.png)
+![applemaps](/blog-posts/images/iphone3gs-in-2020/apple-maps.png)
+
 > Apple Maps works as well as it ever has, down to the turn by turn navigation.
 
 All the other preloaded apps work. Mail, Camera, Reminders, etc.
+
 
 ## Jailbreaking
 
