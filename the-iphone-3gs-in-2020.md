@@ -5,93 +5,142 @@ abstract: Is an iPhone 3GS a viable option for a daily driver anymore?
 tags: technology, vintage computing, ios
 ---
 
+![glamor shot](/blog-posts/images/iphone3gs-in-2020/3gs-glamor-shot.jpg)
+
 ## Why
 
-Every so often, I find myself not in control of my phone. That is, I spend hours a day aimlessly scrolling through social media while avoiding important calls, texts, and work. I've tried many solutions: turning off biometrics, rigid screen time limits, having my roomate be the sole propiter of my passcode, etc. Having a \$1,000 iPhone makes me want to use it as a \$1,000 iPhone. All of that's besides the point. The solution, for me, is to periododically downgrade to an older iPhone every few months in an attempt to break my habbits. 
+Every so often, I find myself at the whims of my phone. That is, I spend hours a day aimlessly scrolling through social media while avoiding important calls, texts, and work. I've tried many solutions: turning off biometrics to slow down login, rigid screen time limits, having my roommate be the sole proprietor of my passcode, etc. At the end of the day, having a \$1,000 iPhone makes me want to use it as a \$1,000 iPhone...
 
+All of that's besides the point. The solution, for me, is to periodically downgrade to an older iPhone every few months. This both breaks a lot of my bad habits and helps me curb my desire for buying a new phone.
 
 In the past, my go to phone was an iPhone 5. With the surplus of phones I have, I decided to go a little further back this time.
 
-![phones]()
+![phone-collection](/blog-posts/images/iphone3gs-in-2020/phone-stack.jpg)
+
 > the phones in question
 
 ## Form Factor
 
-I won't belabor this, we all know what an iPhone 3GS looks like. It's round and plastic, the screen only has a handful of pixels and is recessed under 20 layers of laminent, and there's only one rear camera (with no flash). The stark constrast between this and the iPhone 4 never fails to amaze me. I can't think of a parallel leap, in the span of a year, that compares.
+I won't belabor this, we all remember what an iPhone 3GS looks like. It's round and plastic, the screen has a handful of pixels while being recessed under 20 layers of laminate, and there's only one rear camera (with no flash). The stark contrast between this and the iPhone 4 never fails to amaze me. I can't think of a parallel leap, in the span of a year, that compares.
 
-This phone rocks on a surface, way worse than any iPhone >6 with a camera bump does. 
+[iphone4-vs-3gs](/blog-posts/images/iphone3gs-in-2020/3gs-and-4.jpg)
 
-The 30 pin connector is a thorn I forgot about. I had to venture out to walmart to buy a cable -- coinsidently, there was a tornado passing through GA at the time.
+This phone rocks on a surface, way worse than any iPhone 6 (or above) with a camera bump does. 
+
+The 30 pin connector is a thorn my rose tinted glasses obscured. It's cumbersome, uni-directional, and feels like inserting RAM into a motherboard every time you plug it in.
 
 ## Setup
 
 ### Step 1 -- SIM Card
 
-With my iPhone X, I'm using a nano sim; the 3GS uses a standard SIM. To facilitate this, we have to jump back 3 generations, nano -> micro -> standard. Here's the end result.
+With my iPhone X, I'm using a nano sim; the 3GS uses a standard SIM. To facilitate this, we have to jump back 3 generations, nano -> micro -> standard. Some electrical tape managed to do the trick.
 
-[sim card]()
+![sim card](/blog-posts/images/iphone3gs-in-2020/sim-card.jpg)
 
 ### Step 2 -- restoring
 
 Restoring from a brand new iOS 6.1.6 IPSW was dead simple on MacOS 11. Plug it in, hit restore, done. 
+![finder](/blog-posts/images/iphone3gs-in-2020/finder.png)
 
 ### Step 3 -- Setup
 
-iOS 6 was the first iOS that was "Computer Free"; you didn't need a computer with iTunes to guide you through the setup process. I wish this weren't the case, however, because iCloud signin is effectively broken. This predates the two-factor authentication mandate iCloud now enforces. Easy enough, I'll just have to generate a one-time password. This does not work. The setup asserts `incorrect Apple ID or password` no matter the state. Creating a new iCloud on device doesn't work, resetting the password doesn't work, etc. Fine, no iCloud. 
+iOS 5 was the first iOS that was "Computer Free"; you didn't need a computer with iTunes to guide you through the setup process. I wish this weren't the case, however, because iCloud signin is effectively broken. 
+
+This OS predates the two-factor authentication mandate iCloud now enforces. Easy enough, I'll just have to generate a one-time, app specific, password. No dice. The setup asserts `incorrect Apple ID or password` no matter what you input. Creating a new iCloud on device doesn't work, resetting the password doesn't work, etc. Fine, no iCloud. 
 
 ### Step 4 -- iMessage
 
-iCloud login, with the one-time passcode, works here for some reason. Sweet, iMessage works. I can send and recieve iMessages (the main reason I'm downgrading to another iPhone and not an Android or Blackberry).
+iCloud login, with that one-time passcode, works here for some reason. Sweet, iMessage works. I can send and receive iMessages (the main reason I'm downgrading to an _iPhone_ and not an Android or Blackberry).
 
 ### Step 5 -- SpringBoard
 
 Now that we're on the SpringBoard and setup is done, what can we do? Well without iCloud I don't have any contacts so that sucks.
 
-Even if iCloud worked, all my Notes aren't compadible with devices <iOS 9. 
+Even if iCloud worked, all my Notes aren't compatible with devices <iOS 9. 
 
 The weather and stock apps don't work either, I'm assuming their REST APIs have changed.
 
+![applemap](/blog-posts/images/iphone3gs-in-2020/apple-maps.png)
+> Apple Maps works as well as it ever has, down to the turn by turn navigation.
+
+All the other preloaded apps work. Mail, Camera, Reminders, etc.
+
 ## Jailbreaking
 
-App Store login doesn't work either. Even if it did, iOS 6 doesn't let you download older versions of apps that are compadbile with your phone (I believe iOS 7+ does). Fine, I'll jailbreak it.
+App Store login doesn't work either. Even if it did, iOS 6 doesn't let you download older versions of apps that are compatible with your phone (I believe iOS 7+ does). Fine, I'll jailbreak it.
 
-We have two options: `p0sixpwn` and `H3lix`
+_I'm including all this because I believe it's a crucial step to using these older iPhones in the modern day._
 
-### `H3lix` on a white MBP
+There are a couple of options: 
+- [p0sixpwn](https://ih8sn0w.com/p0sixspwn.html)
+- [H3lix](https://www.theiphonewiki.com/wiki/H3lix)
+- [evasi0n](https://www.theiphonewiki.com/wiki/Evasi0n)
 
-doesn't work. probably an itunes issue. whatever
+None of these work on MacOS 11, of course, because of lack of 32 bit support.
+
+
+### `p0sixpwn` and `evasi0n` on a 2009 MacBook Pro
+
+Neither of these worked. `p0sixpwn` couldn't find the device and `evasi0n` just caused the phone to reboot and nothing more. This is most likely an iTunes issue but with the age of the laptop, I was stuck.
 
 ### `p0sixpwn` on Windows 10
 
-doesn't work. iTunes issue. After not using windows for \~5 years, digging through Device Manager and the Services pane were not gentle reintroductions. whatever
+Next I tried Windows 10 on my friends desktop -- didn't work. `p0sixpwn` couldn't recognize the device. This was another iTunes issue.
 
-### `h3lix` fork on MacOS 11
+I installed iTunes `10.5.5` to no avail. No matter what I did, the iPhone wasn't showing up.
 
-since we can't run 32 bit apps on mac's anymore, someone forked it and got it compiled to 64 bit. Only compabdilbe with ios 6.1.5, whatever
+After not using windows for \~5 years, digging through Device Manager and the Windows Services Manager were not gentle reintroductions. I threw in the towel 
 
-### `h3lix` on a different macbook pro
+### `p0sixpwn` fork on MacOS 11
 
-it works. sweet. it's an untetherd jailbreak so hopefully I'll never have to deal with this again.
+Without 32 bit support, the normal version of `p0sixpwn` doesn't run on MacOS 11. There is, however, a [fork](https://www.reddit.com/r/LegacyJailbreak/comments/fl7u0j/discussion_finally_got_p0sixspwn_to_build_on/) that does. Great.
+
+It opens and detects my device but it's an older fork -- it only supports up to iOS 6.1.5...
+
+### `p0sixpwn` on a 2012 MBP running Yosemite 
+
+It worked, sweet. This is an untethered jailbreak so hopefully I'll never have to deal with this again.
 
 ## Camera
 
-it's really not even work discussing the camera -- it sucks; I expected no less. Here are some sample shots.
+The camera isn't really work discussing -- it sucks; I expected no less but here are some sample shots.
+
+![georgia tech](/blog-posts/images/iphone3gs-in-2020/ga-tech.JPG)
+![another georgia tech shot](/blog-posts/images/iphone3gs-in-2020/gatechx2.JPG)
+![room at noon](/blog-posts/images/iphone3gs-in-2020/room-nolight.JPG)
+![room window](/blog-posts/images/iphone3gs-in-2020/room-window.JPG)
+
+## The Web
+
+With all the javascript, jquery, and CSS 3 stuff on the modern web, most websites don't work. Those that do take a ludacris amount of time to load.
+
+This website, notably, does work.
+
+![garrepi blog](/blog-posts/images/iphone3gs-in-2020/blog-scrolled.jpg)
 
 ## Apps
 
-No App Store means no apps, I had to use this [website](). Spotify, Twitter, Instagram, Youtube, and GroupMe are hosted here. Perfect. 
+No App Store means no apps, I had to use this [mtmdev](https://mtmdev.org/webapp) to download them. Spotify, Twitter, Instagram, Youtube, and GroupMe are hosted here. Perfect. 
+
+![mtmdev](/blog-posts/images/iphone3gs-in-2020/mtmdev.PNG)
 
 #### Instagram 
-it works suprisingly well. videos dont play, direct messages don't load, and there aren't any stories. But the original idea of instagram, a feed of square photos, works.
+
+Instagram works surprisingly well. Videos don't play, direct messages don't load, and there aren't any stories *but* the original idea of Instagram, a feed of square photos, works.
+
+![instagram](/blog-posts/images/iphone3gs-in-2020/instagram.PNG)
 
 #### Twitter
-twitter also works suprisingly well! It's slow but that's what I want. The friction prevents me from idly checking it. If I _need_ to check twitter, I can.
+
+Twitter works the best out of these apps! It's slow but that's what I want. The friction prevents me from idly checking it. If I _need_ to check twitter, I can.
+
+![twitter](/blog-posts/images/iphone3gs-in-2020/twitter.PNG)
 
 #### Spotify
 
-I can log in but can't do much else. I suspect another API change. It hangs on this loading screen
+I can log in but can't do much else. I suspect another API change. It hangs on this loading screen. Bummer.
 
-[spotify]()
+![spotify](/blog-posts/images/iphone3gs-in-2020/spotify.PNG)
 
 ## Communication
 
@@ -99,26 +148,28 @@ What this is all about -- can I text and call? Kind of.
 
 ### iMessage
 
-I dont have any contacts so group chats don't really make any sense to me.
+I don't have any contacts so group chats are basically indistinguishable.
 
-[group chats]()
+![group chats](/blog-posts/images/iphone3gs-in-2020/messages.PNG)
 
-There aren't any fancy features like reactions or thread replies but that's not a big deal. On the basic level, I can send and recieve photos, emojis, and messages suprisingly well.
+There aren't any fancy features like reactions or thread replies but that's not a big deal. On the basic level, I can send and receive photos, emojis, and messages surprisingly well.
 
 ### Phone
 
-The phone works great. Making and answering calls is what this phone is best at. It's more comfertable to use than a modern iPhone and it doesn't get into those weird state battles modern iOS does.
+The phone app works great. Making and answering calls is what this phone is best at. It's more comfortable to use than a modern iPhone and it doesn't get into those weird states modern iPhones do.
 
 ### 3G
 
-3G in Atlanta does not work anymore. Maybe it's an issue with the MVNO service plan I use, tracphone. So iMessage doesn't work when I leave the house... that's my 1 (one) requirement.
+3G in Atlanta does not work anymore. Maybe it's an issue with the MVNO service plan I use, tracphone. So iMessage doesn't work when I leave the house... that's my 1 (one) requirement of a daily driver.
 
-[4g not working]()
+![no 3g data](/blog-posts/images/iphone3gs-in-2020/no-data.PNG)
 
 
 ### Text & call forwarding 
 
-I've gotten too used to all SMS texts and calls forwarding to my laptop and iPad. When I'm in the house, my phone is usually off somewhere but calls and texts still make their way to me via my iPad or laptop. I forgot this wasn't a thing pre iOS 9 and ended up missing 4 phone calls yesterday... oops.
+I've gotten used to all SMS texts and calls forwarding to my laptop and iPad. When I'm at home, my phone is usually off somewhere but calls and texts still propagate to me via my iPad or Mac. I forgot this wasn't a thing pre iOS 9 and ended up missing 4 phone calls yesterday... oops.
+
+![missed calls](/blog-posts/images/iphone3gs-in-2020/notifications.PNG)
 
 ## Conclusion
 
@@ -136,4 +187,6 @@ The fundamental issues that prevent me from sticking on this device are:
 
 - no apps
 
-Next up, I'll try an iPhone 4 with iOS 7 and see if that fixes any of these problems.
+I really wanted to use this phone but with all these hurdles, I can't.
+
+Next up, I'll try an iPhone 4 with iOS 7 and see if that smooths any of these pain points.
