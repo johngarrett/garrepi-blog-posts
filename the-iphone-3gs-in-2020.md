@@ -63,7 +63,7 @@ Even if iCloud worked, my Notes aren't compatible with devices below iOS 9.
 
 The weather and stock apps don't work either, I'm assuming their REST APIs have changed.
 
-![maps](/blog-posts/images/iphone3gs-in-2020/apple-maps.png)
+![maps](/blog-posts/images/iphone3gs-in-2020/apple-maps.PNG)
 
 > Apple Maps works as well as it ever has, down to the turn by turn navigation.
 
