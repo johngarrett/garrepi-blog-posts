@@ -127,7 +127,7 @@ With all the javascript, jquery, and CSS 3 stuff on the modern web, most website
 
 This website, notably, does work.
 
-![garrepi-blog](/blog-posts/images/iphone3gs-in-2020/blog-scrolled.jpg)
+![garrepi-blog](/blog-posts/images/iphone3gs-in-2020/garrepi-dev.jpg)
 
 ## Apps
 
