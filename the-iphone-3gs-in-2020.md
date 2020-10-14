@@ -27,6 +27,23 @@ In the past, my go to phone was an iPhone 5. With the surplus of phones I have, 
 
 > the phone shelf
 
+## Addendum
+
+Reddit user [daniel_dunphy](https://www.reddit.com/user/daniel_dunphy) gave me some great tips that nullify some complaints I bring up later on.
+
+1. signing in with iCloud
+
+The `App Specific Password` route I went wasn't the right thing to do. Instead, you [combine your password with the verification code generated on another device](https://support.apple.com/en-us/HT204974). I remembered doing this before! For some reason, I couldn't find that solution this time around.
+
+2. Downloading older apps
+
+iOS 6 _does_ let you download older app versions from the App Store, like I suspected, *but* you have to have downloaded that app previously with your Apple Id. 
+
+To download a compatible version, you sign into the App Store, navigate to the "Purchased" section and download the apps from there. 
+
+
+Given this, a lot of my iCloud & app related issues below are no longer valid. Keep that in mind if you're considering to do this yourself.
+
 ## Form Factor
 
 I won't belabor this, we all remember what an iPhone 3GS looks like. It's round and plastic, the screen has a handful of pixels while being recessed under 20 layers of laminate, and there's only one rear camera (with no flash).
